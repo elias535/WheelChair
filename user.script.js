@@ -1,4 +1,4 @@
-// ==UserScript==
+Hack (fully updated 1.8.8)//UserScript==
 // @name         Krunker WheelChair
 // @namespace    https://github.com/hrt
 // @version      1.8.9
